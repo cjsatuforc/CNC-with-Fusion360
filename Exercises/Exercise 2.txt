@@ -1,0 +1,9 @@
+Objectives :
+Learn the Basics of G-Code
+
+Steps : 
+1. Open a text-editor - eg Notepad or notepad++
+2. Write a short G-Code program to move the spindle in a 400mmx400mm square
+3. Write a version which moves at rapid speed,
+4. Wrote another version which powers the spindle, moves at Feed-rate speed, then powers-down the spindle
+5. Test the programs by sending them to the CNC

@@ -1,0 +1,12 @@
+Objectives : 
+* Learn to connect to the CNC Controller at low level
+* Check version, status, etc of the CNC Controller
+
+Steps : 
+1. Download Putty.
+2. Connnect the CNC either through USB or Serial cable.
+3. Run Putty and connect to the CNC.
+4. Type a few of the GRBL-Controller commands and explain their responses.
+5. Home the machine
+6. Check the home position
+7. Close Putty.
