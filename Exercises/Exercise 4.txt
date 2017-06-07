@@ -1,0 +1,8 @@
+Objectives :
+Learn the Basics of Parametric Fusion360
+
+Steps : 
+1. Create a new Design
+2. Define Parameters : width, height, diameter
+3. Create the object from previous exercise, but now with parameters.
+4. Change parameters and observe how the object adapts.

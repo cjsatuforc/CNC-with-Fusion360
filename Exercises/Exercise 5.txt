@@ -1,0 +1,9 @@
+Objectives :
+Learn the Basics of CAM
+
+Steps : 
+1. Move over to CAM in Fusion360
+2. Create a Setup in the center-top of the workpiece
+3. Add a pocket operation
+4. Add a contour operation
+5. Simulate the CNC behaviour inside Fusion360

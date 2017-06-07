@@ -1,0 +1,7 @@
+Objectives :
+Learn the Basics of Fusion360 CAD
+
+Steps : 
+1. Open Fusion360, Create a new Project
+2. Create a new Design, into this Project
+3. Create a square block, with a circle cut out in the middle
